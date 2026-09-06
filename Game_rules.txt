@@ -1,0 +1,6 @@
+                                              |----> TIC TAC TOE GAME RULES! <----|
+
+1. Game is played on a 3x3 grid.
+2. Player 1 gets 'X' and Player 2 gets 'O'.
+3. Take turns to choose a box from 1 to 9.
+4. First to align 3 marks in a row/column/diagonal WINS!
